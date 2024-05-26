@@ -22,3 +22,8 @@ C:\Users\eva_01\source\repos\GestionNotas\GestionNotas\obj\Debug\net8.0-windows\
 C:\Users\eva_01\source\repos\GestionNotas\GestionNotas\obj\Debug\net8.0-windows\GestionNotas.pdb
 C:\Users\eva_01\source\repos\GestionNotas\GestionNotas\obj\Debug\net8.0-windows\GestionNotas.genruntimeconfig.cache
 C:\Users\eva_01\source\repos\GestionNotas\GestionNotas\obj\Debug\net8.0-windows\ref\GestionNotas.dll
+C:\Users\eva_01\source\repos\GestionNotas\GestionNotas\obj\Debug\net8.0-windows\GestionNotas.sourcelink.json
+C:\Users\eva_01\source\repos\GestionNotas\GestionNotas\obj\Debug\net8.0-windows\GestionNotas.Properties.Resources.resources
+C:\Users\eva_01\source\repos\GestionNotas\GestionNotas\obj\Debug\net8.0-windows\GestionNotas.Estudiantes.resources
+C:\Users\eva_01\source\repos\GestionNotas\GestionNotas\bin\Debug\net8.0-windows\linq2db.dll
+C:\Users\eva_01\source\repos\GestionNotas\GestionNotas\obj\Debug\net8.0-windows\GestionNotas.Grados.resources

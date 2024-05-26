@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "IT3ZDHbjVAilax+W20T6Nj4LQc/KgG4DXM5pfv5+ro3cwdeJGCIz7C7XD0QyTbyZd3A6bU4W7J6Rnae2ihjUTQ==",
+  "dgSpecHash": "RSclxQeDmllG7Wk9+juuK/9iNUNdmRmkzGc7kzRc2IibcvenUYtcfj6JXh3lFT4K7HFLoeCzhtVSrEgSNFXN3Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\eva_01\\source\\repos\\GestionNotas\\DAL\\DAL.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\eva_01\\.nuget\\packages\\linq2db\\5.4.1\\linq2db.5.4.1.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,6 +1,4 @@
-﻿using DAL;
-
-namespace BLL
+﻿namespace BLL
 {
     public class Class1
     {

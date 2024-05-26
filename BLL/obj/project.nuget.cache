@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "kqk3bG0MtgRJlYGv8o4tGUKuF4i7Fm+96qC48ScWPR/lDS6I6O7hwG5kikW/wMuciRaC/z1u5DiAyuiDZWFTxg==",
+  "dgSpecHash": "+BvanLWdRFp735TYCvx4De7vKhBYtdypqqwQL/bgjd5C1e1SqQV9Mnko+NLectZ+WQbq0TjfTFneqqFpQOXQAA==",
   "success": true,
   "projectFilePath": "C:\\Users\\eva_01\\source\\repos\\GestionNotas\\BLL\\BLL.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\eva_01\\.nuget\\packages\\linq2db\\5.4.1\\linq2db.5.4.1.nupkg.sha512"
+  ],
   "logs": []
 }
