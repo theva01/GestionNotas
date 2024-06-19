@@ -41,6 +41,7 @@
             panelPrincipal = new Panel();
             label2 = new Label();
             button7 = new Button();
+            backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             panelMenu.SuspendLayout();
             panelLogo.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pcbLogo).BeginInit();
@@ -175,7 +176,7 @@
             // 
             pcbLogo.BackColor = Color.FromArgb(53, 10, 6);
             pcbLogo.Image = Properties.Resources.Graduation_Cap;
-            pcbLogo.Location = new Point(3, 0);
+            pcbLogo.Location = new Point(6, 12);
             pcbLogo.Name = "pcbLogo";
             pcbLogo.Size = new Size(181, 133);
             pcbLogo.SizeMode = PictureBoxSizeMode.StretchImage;
@@ -265,5 +266,6 @@
         private Button btnDocentes;
         private Button button7;
         private Label label2;
+        private System.ComponentModel.BackgroundWorker backgroundWorker1;
     }
 }

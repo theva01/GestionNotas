@@ -1,0 +1,15 @@
+C:\Users\eva_01\source\repos\GestionNotas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\eva_01\source\repos\GestionNotas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\eva_01\source\repos\GestionNotas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\eva_01\source\repos\GestionNotas\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\eva_01\source\repos\GestionNotas\Presentacion\obj\Debug\Presentacion.MenuPrincipal.resources
+C:\Users\eva_01\source\repos\GestionNotas\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\eva_01\source\repos\GestionNotas\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\eva_01\source\repos\GestionNotas\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\eva_01\source\repos\GestionNotas\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\eva_01\source\repos\GestionNotas\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\eva_01\source\repos\GestionNotas\Presentacion\obj\Debug\Presentacion.FrmEstudiante.resources
+C:\Users\eva_01\source\repos\GestionNotas\Presentacion\obj\Debug\Presentacion.FrmGrado.resources
+C:\Users\eva_01\source\repos\GestionNotas\Presentacion\bin\Debug\BLL.dll
+C:\Users\eva_01\source\repos\GestionNotas\Presentacion\bin\Debug\BLL.pdb
+C:\Users\eva_01\source\repos\GestionNotas\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date

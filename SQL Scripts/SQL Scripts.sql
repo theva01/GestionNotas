@@ -4,42 +4,46 @@ USE Anderson_NotasDB;
 
 CREATE TABLE Estudiantes (
     NumeroId VARCHAR(20) PRIMARY KEY,
-    Nombre NVARCHAR(100) NOT NULL,
+    Nombre NVARCHAR(50) NOT NULL,
+	Apellido NVARCHAR(50) NOT NULL,
     FechaNacimiento DATE,
     Direccion NVARCHAR(200),
-    Telefono NVARCHAR(15)
+    Telefono NVARCHAR(15),
+	Correo NVARCHAR(40)
 );
 
--- Indices
-CREATE INDEX IX_NumeroId ON Estudiantes (NumeroID);
-CREATE INDEX IX_Nombre ON Estudiantes (Nombre);
---DROP INDEX IX_NumeroId ON Estudiantes;
---DROP INDEX IX_Nombre ON Estudiantes;
-
+ SELECT * FROM Estudiantes;
+--Drop table Estudiantes
 
 --CREATE PROCEDURE InsertarEstudiante
 --    @NumeroId VARCHAR(20),
---    @Nombre NVARCHAR(100),
+--    @Nombre NVARCHAR(50),
+--    @Apellido NVARCHAR(50),
 --    @FechaNacimiento DATE,
 --    @Direccion NVARCHAR(200),
---    @Telefono NVARCHAR(15)
+--    @Telefono NVARCHAR(15),
+--    @Correo NVARCHAR(40)
 --AS
 --BEGIN
---    INSERT INTO Estudiantes (NumeroId, Nombre, FechaNacimiento, Direccion, Telefono)
---    VALUES (@NumeroId, @Nombre, @FechaNacimiento, @Direccion, @Telefono);
+--    INSERT INTO Estudiantes (NumeroId, Nombre, Apellido, FechaNacimiento, Direccion, Telefono, Correo)
+--    VALUES (@NumeroId, @Nombre, @Apellido, @FechaNacimiento, @Direccion, @Telefono, @Correo);
 --END;
 
 
+--Drop procedure InsertarEstudiante
+
+
 -- Registro para porbar
-INSERT INTO Estudiantes (NumeroId, Nombre, FechaNacimiento, Direccion, Telefono) 
+INSERT INTO Estudiantes (NumeroId, Nombre, Apellido, FechaNacimiento, Direccion, Telefono, Correo) 
 VALUES 
-    ('123', N'Juan', '2000-01-01', N'Calle 123', '1234567890'),
-    ('456', N'Mara', '1999-02-15', N'Avenida 456', '0987654321'),
-    ('789', N'Pedro G', '2001-05-20', N'Plaza 789', '5678901234'),
-    ('012', N'Luisa Marz', '1998-12-10', N'Paseo 012', '6789012345'),
-    ('345', N'Ana Lisalo', '2002-08-05', N'Bulevar 345', '7890123456');
+    ('123', N'Juan', 'Ortis', '2000-01-01', N'Calle 123', '1234567890', 'jortis@gmail.com'),
+    ('456', N'Mara', 'Ester','1999-02-15', N'Avenida 456', '0987654321' , 'mester@gmail.com'),
+    ('789', N'Pedro ', 'Garcia', '2001-05-20', N'Plaza 789', '5678901234', 'pgarcia@gmail.com'),
+    ('012', N'Luisa ', 'Marz', '1998-12-10', N'Paseo 012', '6789012345', 'lmarz@gmail.com'),
+    ('345', N'Ana ', 'Lisalo', '2002-08-05', N'Bulevar 345', '7890123456', 'alisalo@gmail.com');
 
 Select * FROM Estudiantes;
+
 
 -- Consulta con NumeroID
 SELECT * FROM Estudiantes WHERE NumeroId = '123';
@@ -87,6 +91,7 @@ CREATE TABLE EstudianteGrado
     PRIMARY KEY (EstudianteID, GradoID)
 );
 
+--drop table EstudianteGrado
 
 -- Ejemplo de uso
 
