@@ -1,0 +1,2 @@
+C:\Users\eva_01\source\repos\GestionNotas\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\eva_01\source\repos\GestionNotas\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
