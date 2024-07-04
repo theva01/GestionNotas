@@ -1,2 +1,17 @@
 C:\Users\eva_01\source\repos\GestionNotas\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
 C:\Users\eva_01\source\repos\GestionNotas\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\eva_01\source\repos\GestionNotas\BLL\bin\Debug\BLL.dll
+C:\Users\eva_01\source\repos\GestionNotas\BLL\bin\Debug\BLL.pdb
+C:\Users\eva_01\source\repos\GestionNotas\BLL\bin\Debug\DAL.dll
+C:\Users\eva_01\source\repos\GestionNotas\BLL\bin\Debug\linq2db.dll
+C:\Users\eva_01\source\repos\GestionNotas\BLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\eva_01\source\repos\GestionNotas\BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\eva_01\source\repos\GestionNotas\BLL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\eva_01\source\repos\GestionNotas\BLL\bin\Debug\DAL.pdb
+C:\Users\eva_01\source\repos\GestionNotas\BLL\bin\Debug\linq2db.xml
+C:\Users\eva_01\source\repos\GestionNotas\BLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\eva_01\source\repos\GestionNotas\BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\eva_01\source\repos\GestionNotas\BLL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\eva_01\source\repos\GestionNotas\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\eva_01\source\repos\GestionNotas\BLL\obj\Debug\BLL.dll
+C:\Users\eva_01\source\repos\GestionNotas\BLL\obj\Debug\BLL.pdb

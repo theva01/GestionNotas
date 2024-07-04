@@ -14,7 +14,9 @@ namespace DAL
         public Conexion() : base("LocalHouseBD") { }
         
         public ITable<Estudiantes> TblEstudiantes { get { return this.GetTable<Estudiantes>(); } }
-
+        public ITable<Grados> TblGrados { get { return this.GetTable<Grados>(); } }
+        public ITable<EstudianteGrado> TblEstudianteGrado { get { return this.GetTable<EstudianteGrado>(); } } 
+        
    
         
 

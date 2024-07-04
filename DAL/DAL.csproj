@@ -58,6 +58,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Conexion.cs" />
+    <Compile Include="EstudianteGrado.cs" />
     <Compile Include="Estudiantes.cs" />
     <Compile Include="Grados.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

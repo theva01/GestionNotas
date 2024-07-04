@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BLL;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,9 +13,21 @@ namespace Presentacion
 {
     public partial class FrmGrado : Form
     {
+        private BllGrado grado;
         public FrmGrado()
         {
             InitializeComponent();
+            cmbGrado.Text = "SELECCIONE";
+            cmbGrupo.Text = "SELECCIONE";
+            var listaDeCmb = new List<ComboBox>();
+            listaDeCmb.Add(cmbGrado);
+            listaDeCmb.Add(cmbGrupo);
+            grado = new BllGrado(listaDeCmb);
+        }
+
+        private void btnRegistrar_Click(object sender, EventArgs e)
+        {
+            grado.Registrar();
         }
     }
 }

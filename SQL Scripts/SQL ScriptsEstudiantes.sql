@@ -3,8 +3,8 @@ CREATE DATABASE Anderson_NotasDB
 USE Anderson_NotasDB;
 
 CREATE TABLE Estudiantes (
-    id INT IDENTITY(1,1) PRIMARY KEY,
-    NumeroId VARCHAR(20) NOT NULL,
+    id INT IDENTITY(1,1),
+    NumeroId VARCHAR(20) PRIMARY KEY,
     Nombre NVARCHAR(50) NOT NULL,
 	Apellido NVARCHAR(50) NOT NULL,
     FechaNacimiento DATE,
@@ -14,8 +14,9 @@ CREATE TABLE Estudiantes (
 );
 
  SELECT * FROM Estudiantes;
---Drop table Estudiantes
 
+ SELECT * FROM Grados;
+ --Delete Estudiantes;
 --CREATE PROCEDURE InsertarEstudiante
 --    @NumeroId VARCHAR(20),
 --    @Nombre NVARCHAR(50),

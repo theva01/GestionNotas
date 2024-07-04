@@ -1,3 +1,5 @@
+USE Anderson_NotasDB;
+
 CREATE TABLE EstudianteGrado
 (
     EstudianteID VARCHAR(20) FOREIGN KEY REFERENCES Estudiantes(NumeroId),

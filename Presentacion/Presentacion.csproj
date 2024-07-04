@@ -63,6 +63,12 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Anderson_NotasDBDataSet.xsd</DependentUpon>
     </Compile>
+    <Compile Include="FrmAsignarEstudianteGrado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAsignarEstudianteGrado.Designer.cs">
+      <DependentUpon>FrmAsignarEstudianteGrado.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmEstudiante.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -83,6 +89,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmAsignarEstudianteGrado.resx">
+      <DependentUpon>FrmAsignarEstudianteGrado.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmEstudiante.resx">
       <DependentUpon>FrmEstudiante.cs</DependentUpon>
     </EmbeddedResource>
@@ -155,6 +164,10 @@
     <ProjectReference Include="..\BLL\BLL.csproj">
       <Project>{bc9b689f-cc57-46b0-b842-928b18662ec7}</Project>
       <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{BC49250D-504F-47EA-93A3-42E2B36E17BB}</Project>
+      <Name>DAL</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

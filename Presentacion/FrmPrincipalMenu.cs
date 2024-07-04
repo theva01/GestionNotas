@@ -44,10 +44,27 @@ namespace Presentacion
 
         private void btnGrado_Click(object sender, EventArgs e)
         {
-            abrirFormatoHija(new FrmGrado());
+            if (!pnlGrados.Visible)
+            {
+                pnlGrados.Visible = true;
+            }
+            else
+            {
+                pnlGrados.Visible = false;
+            }
+            
         }
+
         #endregion
 
+        private void btnAdministrarGrados_Click(object sender, EventArgs e)
+        {
+            abrirFormatoHija(new FrmGrado());
+        }
 
+        private void btnAsignarEstudianteGrado_Click(object sender, EventArgs e)
+        {
+            abrirFormatoHija(new FrmAsignarEstudianteGrado());
+        }
     }
 }

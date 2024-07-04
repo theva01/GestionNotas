@@ -1,2 +1,15 @@
 C:\Users\eva_01\source\repos\GestionNotas\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
 C:\Users\eva_01\source\repos\GestionNotas\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\eva_01\source\repos\GestionNotas\DAL\bin\Debug\DAL.dll
+C:\Users\eva_01\source\repos\GestionNotas\DAL\bin\Debug\DAL.pdb
+C:\Users\eva_01\source\repos\GestionNotas\DAL\bin\Debug\linq2db.dll
+C:\Users\eva_01\source\repos\GestionNotas\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\eva_01\source\repos\GestionNotas\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\eva_01\source\repos\GestionNotas\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\eva_01\source\repos\GestionNotas\DAL\bin\Debug\linq2db.xml
+C:\Users\eva_01\source\repos\GestionNotas\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\eva_01\source\repos\GestionNotas\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\eva_01\source\repos\GestionNotas\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\eva_01\source\repos\GestionNotas\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\eva_01\source\repos\GestionNotas\DAL\obj\Debug\DAL.dll
+C:\Users\eva_01\source\repos\GestionNotas\DAL\obj\Debug\DAL.pdb

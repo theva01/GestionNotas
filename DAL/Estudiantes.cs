@@ -9,8 +9,9 @@ namespace DAL
 {
     public class Estudiantes
     {
-        [PrimaryKey, Identity]
+        [Identity]
         public int Id { get; set; }
+        [PrimaryKey]
         public string NumeroId { get; set; }
         public string Nombre { get; set; }
         public string Apellido { get; set; }

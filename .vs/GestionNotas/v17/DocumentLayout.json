@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\eva_01\\source\\repos\\GestionNotas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC49250D-504F-47EA-93A3-42E2B36E17BB}|DAL\\DAL.csproj|c:\\users\\eva_01\\source\\repos\\gestionnotas\\dal\\grados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC49250D-504F-47EA-93A3-42E2B36E17BB}|DAL\\DAL.csproj|solutionrelative:dal\\grados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC9B689F-CC57-46B0-B842-928B18662EC7}|BLL\\BLL.csproj|c:\\users\\eva_01\\source\\repos\\gestionnotas\\bll\\bllestudiantegrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9B689F-CC57-46B0-B842-928B18662EC7}|BLL\\BLL.csproj|solutionrelative:bll\\bllestudiantegrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC49250D-504F-47EA-93A3-42E2B36E17BB}|DAL\\DAL.csproj|C:\\Users\\eva_01\\source\\repos\\GestionNotas\\dal\\estudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC49250D-504F-47EA-93A3-42E2B36E17BB}|DAL\\DAL.csproj|solutionrelative:dal\\estudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{654B862B-FFC4-4193-8A52-4AE32F86A892}|Presentacion\\Presentacion.csproj|c:\\users\\eva_01\\source\\repos\\gestionnotas\\presentacion\\frmasignarestudiantegrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654B862B-FFC4-4193-8A52-4AE32F86A892}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\frmasignarestudiantegrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC49250D-504F-47EA-93A3-42E2B36E17BB}|DAL\\DAL.csproj|C:\\Users\\eva_01\\source\\repos\\GestionNotas\\dal\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC49250D-504F-47EA-93A3-42E2B36E17BB}|DAL\\DAL.csproj|solutionrelative:dal\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC9B689F-CC57-46B0-B842-928B18662EC7}|BLL\\BLL.csproj|C:\\Users\\eva_01\\source\\repos\\GestionNotas\\bll\\bllgrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9B689F-CC57-46B0-B842-928B18662EC7}|BLL\\BLL.csproj|solutionrelative:bll\\bllgrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{654B862B-FFC4-4193-8A52-4AE32F86A892}|Presentacion\\Presentacion.csproj|C:\\Users\\eva_01\\source\\repos\\GestionNotas\\presentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{654B862B-FFC4-4193-8A52-4AE32F86A892}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{BC9B689F-CC57-46B0-B842-928B18662EC7}|BLL\\BLL.csproj|C:\\Users\\eva_01\\source\\repos\\GestionNotas\\bll\\lestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9B689F-CC57-46B0-B842-928B18662EC7}|BLL\\BLL.csproj|solutionrelative:bll\\lestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654B862B-FFC4-4193-8A52-4AE32F86A892}|Presentacion\\Presentacion.csproj|C:\\Users\\eva_01\\source\\repos\\GestionNotas\\presentacion\\frmasignarestudiantegrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{654B862B-FFC4-4193-8A52-4AE32F86A892}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\frmasignarestudiantegrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654B862B-FFC4-4193-8A52-4AE32F86A892}|Presentacion\\Presentacion.csproj|C:\\Users\\eva_01\\source\\repos\\GestionNotas\\presentacion\\frmestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654B862B-FFC4-4193-8A52-4AE32F86A892}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\frmestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654B862B-FFC4-4193-8A52-4AE32F86A892}|Presentacion\\Presentacion.csproj|c:\\users\\eva_01\\source\\repos\\gestionnotas\\presentacion\\frmprincipalmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654B862B-FFC4-4193-8A52-4AE32F86A892}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\frmprincipalmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654B862B-FFC4-4193-8A52-4AE32F86A892}|Presentacion\\Presentacion.csproj|C:\\Users\\eva_01\\source\\repos\\GestionNotas\\presentacion\\frmprincipalmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{654B862B-FFC4-4193-8A52-4AE32F86A892}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\frmprincipalmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{654B862B-FFC4-4193-8A52-4AE32F86A892}|Presentacion\\Presentacion.csproj|C:\\Users\\eva_01\\source\\repos\\GestionNotas\\presentacion\\frmgrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -25,6 +41,30 @@
     {
       "AbsoluteMoniker": "D:0:0:{654B862B-FFC4-4193-8A52-4AE32F86A892}|Presentacion\\Presentacion.csproj|C:\\Users\\eva_01\\source\\repos\\GestionNotas\\presentacion\\frmestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{654B862B-FFC4-4193-8A52-4AE32F86A892}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\frmestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC49250D-504F-47EA-93A3-42E2B36E17BB}|DAL\\DAL.csproj|C:\\Users\\eva_01\\source\\repos\\GestionNotas\\dal\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC49250D-504F-47EA-93A3-42E2B36E17BB}|DAL\\DAL.csproj|solutionrelative:dal\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC49250D-504F-47EA-93A3-42E2B36E17BB}|DAL\\DAL.csproj|C:\\Users\\eva_01\\source\\repos\\GestionNotas\\dal\\estudiantegrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC49250D-504F-47EA-93A3-42E2B36E17BB}|DAL\\DAL.csproj|solutionrelative:dal\\estudiantegrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC49250D-504F-47EA-93A3-42E2B36E17BB}|DAL\\DAL.csproj|C:\\Users\\eva_01\\source\\repos\\GestionNotas\\dal\\grados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC49250D-504F-47EA-93A3-42E2B36E17BB}|DAL\\DAL.csproj|solutionrelative:dal\\grados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC49250D-504F-47EA-93A3-42E2B36E17BB}|DAL\\DAL.csproj|C:\\Users\\eva_01\\source\\repos\\GestionNotas\\dal\\estudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC49250D-504F-47EA-93A3-42E2B36E17BB}|DAL\\DAL.csproj|solutionrelative:dal\\estudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654B862B-FFC4-4193-8A52-4AE32F86A892}|Presentacion\\Presentacion.csproj|C:\\Users\\eva_01\\source\\repos\\GestionNotas\\presentacion\\frmgrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654B862B-FFC4-4193-8A52-4AE32F86A892}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\frmgrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654B862B-FFC4-4193-8A52-4AE32F86A892}|Presentacion\\Presentacion.csproj|C:\\Users\\eva_01\\source\\repos\\GestionNotas\\presentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{654B862B-FFC4-4193-8A52-4AE32F86A892}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,64 +74,106 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Grados.cs",
-              "DocumentMoniker": "C:\\Users\\eva_01\\source\\repos\\GestionNotas\\DAL\\Grados.cs",
-              "RelativeDocumentMoniker": "DAL\\Grados.cs",
-              "ToolTip": "C:\\Users\\eva_01\\source\\repos\\GestionNotas\\DAL\\Grados.cs",
-              "RelativeToolTip": "DAL\\Grados.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Title": "BllEstudianteGrado.cs",
+              "DocumentMoniker": "C:\\Users\\eva_01\\source\\repos\\GestionNotas\\BLL\\BllEstudianteGrado.cs",
+              "RelativeDocumentMoniker": "BLL\\BllEstudianteGrado.cs",
+              "ToolTip": "C:\\Users\\eva_01\\source\\repos\\GestionNotas\\BLL\\BllEstudianteGrado.cs",
+              "RelativeToolTip": "BLL\\BllEstudianteGrado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T18:41:50.18Z",
+              "WhenOpened": "2024-07-04T23:08:59.923Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Estudiantes.cs",
-              "DocumentMoniker": "C:\\Users\\eva_01\\source\\repos\\GestionNotas\\DAL\\Estudiantes.cs",
-              "RelativeDocumentMoniker": "DAL\\Estudiantes.cs",
-              "ToolTip": "C:\\Users\\eva_01\\source\\repos\\GestionNotas\\DAL\\Estudiantes.cs",
-              "RelativeToolTip": "DAL\\Estudiantes.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Title": "FrmAsignarEstudianteGrado.cs",
+              "DocumentMoniker": "C:\\Users\\eva_01\\source\\repos\\GestionNotas\\Presentacion\\FrmAsignarEstudianteGrado.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FrmAsignarEstudianteGrado.cs",
+              "ToolTip": "C:\\Users\\eva_01\\source\\repos\\GestionNotas\\Presentacion\\FrmAsignarEstudianteGrado.cs",
+              "RelativeToolTip": "Presentacion\\FrmAsignarEstudianteGrado.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABoAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T20:56:42.232Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\eva_01\\source\\repos\\GestionNotas\\Presentacion\\App.config",
-              "RelativeDocumentMoniker": "Presentacion\\App.config",
-              "ToolTip": "C:\\Users\\eva_01\\source\\repos\\GestionNotas\\Presentacion\\App.config",
-              "RelativeToolTip": "Presentacion\\App.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-06-19T18:08:44.045Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\eva_01\\source\\repos\\GestionNotas\\DAL\\Conexion.cs",
-              "RelativeDocumentMoniker": "DAL\\Conexion.cs",
-              "ToolTip": "C:\\Users\\eva_01\\source\\repos\\GestionNotas\\DAL\\Conexion.cs",
-              "RelativeToolTip": "DAL\\Conexion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T17:40:29.983Z"
+              "WhenOpened": "2024-07-04T20:22:35.956Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "FrmAsignarEstudianteGrado.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\eva_01\\source\\repos\\GestionNotas\\Presentacion\\FrmAsignarEstudianteGrado.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FrmAsignarEstudianteGrado.cs",
+              "ToolTip": "C:\\Users\\eva_01\\source\\repos\\GestionNotas\\Presentacion\\FrmAsignarEstudianteGrado.cs [Design]",
+              "RelativeToolTip": "Presentacion\\FrmAsignarEstudianteGrado.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:25:39.391Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmPrincipalMenu.cs",
+              "DocumentMoniker": "C:\\Users\\eva_01\\source\\repos\\GestionNotas\\Presentacion\\FrmPrincipalMenu.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FrmPrincipalMenu.cs",
+              "ToolTip": "C:\\Users\\eva_01\\source\\repos\\GestionNotas\\Presentacion\\FrmPrincipalMenu.cs",
+              "RelativeToolTip": "Presentacion\\FrmPrincipalMenu.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T06:10:55.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmPrincipalMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\eva_01\\source\\repos\\GestionNotas\\Presentacion\\FrmPrincipalMenu.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FrmPrincipalMenu.cs",
+              "ToolTip": "C:\\Users\\eva_01\\source\\repos\\GestionNotas\\Presentacion\\FrmPrincipalMenu.cs [Design]",
+              "RelativeToolTip": "Presentacion\\FrmPrincipalMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:37:20.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EstudianteGrado.cs",
+              "DocumentMoniker": "C:\\Users\\eva_01\\source\\repos\\GestionNotas\\DAL\\EstudianteGrado.cs",
+              "RelativeDocumentMoniker": "DAL\\EstudianteGrado.cs",
+              "ToolTip": "C:\\Users\\eva_01\\source\\repos\\GestionNotas\\DAL\\EstudianteGrado.cs",
+              "RelativeToolTip": "DAL\\EstudianteGrado.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T23:32:30.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BllGrado.cs",
+              "DocumentMoniker": "C:\\Users\\eva_01\\source\\repos\\GestionNotas\\BLL\\BllGrado.cs",
+              "RelativeDocumentMoniker": "BLL\\BllGrado.cs",
+              "ToolTip": "C:\\Users\\eva_01\\source\\repos\\GestionNotas\\BLL\\BllGrado.cs",
+              "RelativeToolTip": "BLL\\BllGrado.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T00:38:12.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "FrmGrado.cs [Design]",
               "DocumentMoniker": "C:\\Users\\eva_01\\source\\repos\\GestionNotas\\Presentacion\\FrmGrado.cs",
               "RelativeDocumentMoniker": "Presentacion\\FrmGrado.cs",
@@ -102,14 +184,102 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
+              "Title": "Grados.cs",
+              "DocumentMoniker": "C:\\Users\\eva_01\\source\\repos\\GestionNotas\\DAL\\Grados.cs",
+              "RelativeDocumentMoniker": "DAL\\Grados.cs",
+              "ToolTip": "C:\\Users\\eva_01\\source\\repos\\GestionNotas\\DAL\\Grados.cs",
+              "RelativeToolTip": "DAL\\Grados.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T18:41:50.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmGrado.cs",
+              "DocumentMoniker": "C:\\Users\\eva_01\\source\\repos\\GestionNotas\\Presentacion\\FrmGrado.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FrmGrado.cs",
+              "ToolTip": "C:\\Users\\eva_01\\source\\repos\\GestionNotas\\Presentacion\\FrmGrado.cs",
+              "RelativeToolTip": "Presentacion\\FrmGrado.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T22:28:39.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\eva_01\\source\\repos\\GestionNotas\\Presentacion\\App.config",
+              "RelativeDocumentMoniker": "Presentacion\\App.config",
+              "ToolTip": "C:\\Users\\eva_01\\source\\repos\\GestionNotas\\Presentacion\\App.config",
+              "RelativeToolTip": "Presentacion\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-19T18:08:44.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\eva_01\\source\\repos\\GestionNotas\\DAL\\Conexion.cs",
+              "RelativeDocumentMoniker": "DAL\\Conexion.cs",
+              "ToolTip": "C:\\Users\\eva_01\\source\\repos\\GestionNotas\\DAL\\Conexion.cs",
+              "RelativeToolTip": "DAL\\Conexion.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:40:29.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "FrmEstudiante.cs [Design]",
               "DocumentMoniker": "C:\\Users\\eva_01\\source\\repos\\GestionNotas\\Presentacion\\FrmEstudiante.cs",
               "RelativeDocumentMoniker": "Presentacion\\FrmEstudiante.cs",
               "ToolTip": "C:\\Users\\eva_01\\source\\repos\\GestionNotas\\Presentacion\\FrmEstudiante.cs [Design]",
               "RelativeToolTip": "Presentacion\\FrmEstudiante.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T16:32:58.622Z"
+              "WhenOpened": "2024-06-06T16:32:58.622Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LEstudiante.cs",
+              "DocumentMoniker": "C:\\Users\\eva_01\\source\\repos\\GestionNotas\\BLL\\LEstudiante.cs",
+              "RelativeDocumentMoniker": "BLL\\LEstudiante.cs",
+              "ToolTip": "C:\\Users\\eva_01\\source\\repos\\GestionNotas\\BLL\\LEstudiante.cs",
+              "RelativeToolTip": "BLL\\LEstudiante.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAADwvxcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T20:57:46.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmEstudiante.cs",
+              "DocumentMoniker": "C:\\Users\\eva_01\\source\\repos\\GestionNotas\\Presentacion\\FrmEstudiante.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FrmEstudiante.cs",
+              "ToolTip": "C:\\Users\\eva_01\\source\\repos\\GestionNotas\\Presentacion\\FrmEstudiante.cs",
+              "RelativeToolTip": "Presentacion\\FrmEstudiante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T22:02:16.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Estudiantes.cs",
+              "DocumentMoniker": "C:\\Users\\eva_01\\source\\repos\\GestionNotas\\DAL\\Estudiantes.cs",
+              "RelativeDocumentMoniker": "DAL\\Estudiantes.cs",
+              "ToolTip": "C:\\Users\\eva_01\\source\\repos\\GestionNotas\\DAL\\Estudiantes.cs",
+              "RelativeToolTip": "DAL\\Estudiantes.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T20:56:42.232Z"
             }
           ]
         }
